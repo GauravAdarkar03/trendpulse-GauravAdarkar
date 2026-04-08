@@ -1,0 +1,90 @@
+post_id,title,category,score,num_comments,author,collected_at
+47679121,Project Glasswing: Securing critical software for the AI era,technology,1266,623,Ryan5453,2026-04-08 14:43:42.282509
+47685945,We moved Railway's frontend off Next.js. Builds went from 10+ mins to under two,technology,64,34,bundie,2026-04-08 14:43:42.282509
+47677853,GLM-5.1: Towards Long-Horizon Tasks,worldnews,528,215,zixuanlimit,2026-04-08 14:43:42.282509
+47657204,Show HN: We built a camera only robot vacuum for less than 300$ (Well almost),entertainment,5,0,indraneelpatil,2026-04-08 14:43:42.282509
+47681112,Show HN: An interactive map of Tolkien's Middle-earth,entertainment,195,39,frasermarlow,2026-04-08 14:43:42.282509
+47653642,Binary obfuscation used in AAA Games,sports,92,35,noztol,2026-04-08 14:43:42.282509
+47624572,A database of analog cameras that can be 3D printed,technology,102,13,thomasjb,2026-04-08 14:43:42.282509
+47675625,Cloudflare targets 2029 for full post-quantum security,technology,327,98,ilreb,2026-04-08 14:43:42.282509
+47680309,Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon,entertainment,174,23,MediaSquirrel,2026-04-08 14:43:42.282509
+47627217,Running out of disk space in production,science,199,106,romes,2026-04-08 14:43:42.282509
+47673360,Show HN: Brutalist Concrete Laptop Stand (2024),entertainment,752,229,sam-bee,2026-04-08 14:43:42.282509
+47664836,AI helps add 10k more photos to OldNYC,technology,132,45,evakhoury,2026-04-08 14:43:42.282509
+47680124,IPv6 is the only way forward,worldnews,68,162,quaintdev,2026-04-08 14:43:42.282509
+47672295,Every GPU That Mattered,technology,314,196,jonbaer,2026-04-08 14:43:42.282509
+47677241,Taste in the age of AI and LLMs,technology,244,195,speckx,2026-04-08 14:43:42.282509
+47676557,Moving fast in hardware: lessons from lab to $100M ARR,worldnews,104,24,rryan,2026-04-08 14:43:42.282509
+47675013,Dropping Cloudflare for Bunny.net,technology,392,197,shintoist,2026-04-08 14:43:42.282509
+47674606,Show HN: Unicode Steganography,technology,23,4,PatrickVuscan,2026-04-08 14:43:42.282509
+47672318,Blackholing My Email,technology,173,34,semyonsh,2026-04-08 14:43:42.282509
+47673005,We found an undocumented bug in the Apollo 11 guidance computer code,technology,412,193,henrygarner,2026-04-08 14:43:42.282509
+47680532,"Cells for NetBSD: kernel-enforced, jail-like isolation",technology,45,12,akagusu,2026-04-08 14:43:42.282509
+47680023,Tailslayer: Library for reducing tail latency in RAM reads,technology,58,19,hasheddan,2026-04-08 14:43:42.282509
+47682908,AI Assistance Reduces Persistence and Hurts Independent Performance,technology,15,3,dougb5,2026-04-08 14:43:42.282509
+47674027,Show HN: A cartographer's attempt to realistically map Tolkien's world,entertainment,159,28,intofarlands,2026-04-08 14:43:42.282509
+47684326,OpenAI says its new model GPT-2 is too dangerous to release (2019),technology,327,91,surprisetalk,2026-04-08 14:43:42.282509
+47685704,How the Vision Pro Rollout Inflamed Tensions at Apple,sports,11,2,f_allwein,2026-04-08 14:43:42.282509
+47672778,Breaking the console: a brief history of video game security,sports,93,26,sprado,2026-04-08 14:43:42.282509
+47683613,ICE acknowledges it is using powerful spyware,worldnews,50,6,dnemmers,2026-04-08 14:43:42.282509
+47670981,"Three hundred synths, 3 hardware projects, and one app",worldnews,116,18,ductionist,2026-04-08 14:43:42.282509
+47682956,The BSDs in the AI Age,technology,6,0,jaypatelani,2026-04-08 14:43:42.282509
+47673880,Show HN: Pion/handoff – Move WebRTC out of browser and into Go,entertainment,93,17,Sean-Der,2026-04-08 14:43:42.282509
+47676044,Show HN: Finalrun – Spec-driven testing using English and vision for mobile apps,entertainment,26,12,ashish004,2026-04-08 14:43:42.282509
+47686106,Japan relaxes privacy laws to make itself the 'easiest country to develop AI',technology,10,1,jeffbobries,2026-04-08 14:43:42.282509
+47684506,LLM scraper bots are overloading acme.com's HTTPS server,technology,53,50,mjyut,2026-04-08 14:43:42.282509
+47673394,"Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead",entertainment,238,195,Zm44,2026-04-08 14:43:42.282509
+47673541,AI may be making us think and write more alike,technology,221,231,giuliomagnifico,2026-04-08 14:43:42.282509
+47629021,Global Physics Photowalk: 2025 winners revealed,worldnews,26,1,ibobev,2026-04-08 14:43:42.282509
+47641528,Apollo Guidance Computer restoration videos,technology,89,11,mariuz,2026-04-08 14:43:42.282509
+47682098,Ex-Meta worker investigated for downloading 30k private Facebook photos,entertainment,87,32,1659447091,2026-04-08 14:43:42.282509
+47666024,Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS,entertainment,458,194,MattHart88,2026-04-08 14:43:42.282509
+47660925,Issue: Claude Code is unusable for complex engineering tasks with Feb updates,technology,1308,721,StanAngeloff,2026-04-08 14:43:42.282509
+47636579,Show HN: Anos – a hand-written ~100KiB microkernel for x86-64 and RISC-V,entertainment,110,31,noone_youknow,2026-04-08 14:43:42.282509
+47661065,"The team behind a pro-Iran, Lego-themed viral-video campaign",technology,160,257,tantalor,2026-04-08 14:43:42.282509
+47686058,Inside a huge compound where 10k workers scammed people globally,worldnews,5,0,ece,2026-04-08 14:43:42.282509
+47683171,Show HN: Can an AI model fit on a single pixel?,technology,6,5,deevelton,2026-04-08 14:43:42.282509
+47667672,"Show HN: Hippo, biologically inspired memory for AI agents",technology,121,24,kitfunso,2026-04-08 14:43:42.282509
+47664186,"Battle for Wesnoth: open-source, turn-based strategy game",sports,531,160,akyuu,2026-04-08 14:43:42.282509
+47637828,Show HN: Tusk for macOS and Gnome,entertainment,116,45,factorialboy,2026-04-08 14:43:42.282509
+47682879,We need re-learn what AI agent development tools are in 2026,technology,6,0,healsdata,2026-04-08 14:43:42.282509
+47660954,German police name alleged leaders of GandCrab and REvil ransomware groups,worldnews,318,157,Bender,2026-04-08 14:43:42.282509
+47677952,The Blueprint of a North Korean Attack on Open-Source,worldnews,27,11,brene,2026-04-08 14:43:42.282509
+47662945,Show HN: GovAuctions lets you browse government auctions at once,worldnews,312,89,player_piano,2026-04-08 14:43:42.282509
+47665685,Show HN: TTF-DOOM – A raycaster running inside TrueType font hinting,entertainment,65,12,4RH1T3CT0R,2026-04-08 14:43:42.282509
+47656501,The 1987 game “The Last Ninja” was 40 kilobytes,sports,305,189,keepamovin,2026-04-08 14:43:42.282509
+47660853,Book review: There Is No Antimemetics Division,entertainment,278,223,ibobev,2026-04-08 14:43:42.282509
+47665207,SOM: A minimal Smalltalk for teaching of and research on Virtual Machines,science,55,0,tosh,2026-04-08 14:43:42.282509
+47674662,Show HN: A social feed with no algo where communities decide what gets seen,entertainment,9,5,smnkgv,2026-04-08 14:43:42.282509
+47650502,Computational Physics (2nd Edition) (2025),science,183,22,teleforce,2026-04-08 14:43:42.282509
+47675709,Show HN: The King James Bible deserved a better website,entertainment,9,3,L23234,2026-04-08 14:43:42.282509
+47655392,Show HN: I made a YouTube search form with advanced filters,entertainment,318,201,nevernothing,2026-04-08 14:43:42.282509
+47638498,Show HN: AdaShape-3D modeler for intuitive 3D printing parts / Windows 11,entertainment,31,30,fsloth,2026-04-08 14:43:42.282509
+47677556,Show HN: A (marginally) useful x86-64 ELF executable in 298 bytes,entertainment,12,0,meribold,2026-04-08 14:43:42.282509
+47637377,LÖVE: 2D Game Framework for Lua,sports,413,215,cl3misch,2026-04-08 14:43:42.282509
+47681453,"Sports bets on prediction markets ruled to be ""swaps,"" exempt from state laws",sports,18,6,nradov,2026-04-08 14:43:42.282509
+47662429,Show HN: Weird Clocks,entertainment,50,16,vunderba,2026-04-08 14:43:42.282509
+47655268,"Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf",entertainment,98,28,mohshomis,2026-04-08 14:43:42.282509
+47679573,Apple Is Reportedly Facing a 'Massive Dilemma' with the MacBook Neo,entertainment,25,22,thm,2026-04-08 14:43:42.282509
+47647788,The threat is comfortable drift toward not understanding what you're doing,worldnews,970,616,zaikunzhang,2026-04-08 14:43:42.282509
+47656303,Case study: recovery of a corrupted 12 TB multi-device pool,science,116,65,salt4034,2026-04-08 14:43:42.282509
+47652322,Music for Programming,entertainment,348,173,merusame,2026-04-08 14:43:42.282509
+47642601,Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown,entertainment,174,31,laszlokorte,2026-04-08 14:43:42.282509
+47680611,"Iranian hackers launching disruptive attacks at U.S. energy, water targets [pdf]",worldnews,31,6,lschueller,2026-04-08 14:43:42.282509
+47646504,Show HN: OsintRadar – Curated directory for osint tools,entertainment,83,9,lexalizer,2026-04-08 14:43:42.282509
+47685951,How Trump Took the U.S. to War with Iran,worldnews,5,1,u1hcw9nx,2026-04-08 14:43:42.282509
+47675835,Wireless Festival cancelled after government stops Kanye West entering UK,worldnews,12,1,manarth,2026-04-08 14:43:42.282509
+47648404,My Google Workspace account suspension,science,369,218,zenincognito,2026-04-08 14:43:42.282509
+47681094,"Al-Khwarizmi (""Algorithm"")",worldnews,8,1,profsummergig,2026-04-08 14:43:42.282509
+47629485,A case study in testing with 100+ Claude agents in parallel,science,66,54,thejash,2026-04-08 14:43:42.282509
+47667008,Show HN: I built a site that turns your Steam gaming hours into a RL skill tree,sports,7,4,naorz,2026-04-08 14:43:42.282509
+47639727,"When legal sports betting surges, so do Americans' financial problems",sports,221,146,pseudolus,2026-04-08 14:43:42.282509
+47633676,"Extra usage credit for Pro, Max, and Team plans",sports,64,61,angst,2026-04-08 14:43:42.282509
+47644726,"Power-washing, pool-cleaning and mowing – playing games about mundane jobs",sports,24,4,andsoitis,2026-04-08 14:43:42.282509
+47669649,Global Fuel Shortage Pushes Governments Toward Demand Controls,worldnews,15,14,toomuchtodo,2026-04-08 14:43:42.282509
+47673182,Health benefits of Paris climate goals could save lives by 2040,worldnews,7,0,lentoutcry,2026-04-08 14:43:42.282509
+47641615,Sopwith – 1984 Game (2000),sports,99,42,elvis70,2026-04-08 14:43:42.282509
+47645817,How Pope Leo is pushing back on divine justification of war,worldnews,76,42,1659447091,2026-04-08 14:43:42.282509
+47653036,Satellite firm Planet Labs to indefinitely withold Iran war imagery,worldnews,42,12,anigbrowl,2026-04-08 14:43:42.282509
+47664308,JPMorgan warns Tesla stock could sink 60% in new note,worldnews,61,18,freediddy,2026-04-08 14:43:42.282509
+47680527,Russia's Fancy Bear still attacking routers to boost fake sites,worldnews,7,0,lschueller,2026-04-08 14:43:42.282509
